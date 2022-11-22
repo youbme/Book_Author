@@ -27,6 +27,7 @@ public class FibonaciSerires {
         int fact = func( ss);
 
         System.out.println(fact);
+        System.out.println("hello World");
 //        ArrayList<Integer> arr = new ArrayList<>();
 //        int temp ;
 //        int i=0;
